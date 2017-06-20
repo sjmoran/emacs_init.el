@@ -1,9 +1,7 @@
 # emacs_init.el
-sean.j.moran@gmail.com
-20/7/2017
-My emacs init.el programming environment
+Configuration file for my emacs programming environment
 
-This Emacs environment configuration file enables a rich Python programming IDE. Being generally allergic to more heavyweight IDEs such as Pycharm, I tend to favour Emacs in my day-to-day programming work.
+This Emacs environment configuration file enables a rich Python programming IDE. Given that I am generally allergic to more heavyweight IDEs such as Pycharm, I tend to favour Emacs in my day-to-day programming work.
 I've setup my Emacs according to the init.el featured in this repository. The following packages are used:
 
 * Emacs material theme: https://github.com/cpaulik/emacs-material-theme
