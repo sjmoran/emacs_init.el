@@ -33,4 +33,4 @@ the ~/.emacs.d/ folder:
 * highlight-current-line-0.57/ 
   * https://www.emacswiki.org/emacs/highlight-current-line.el
 
-This configuration has currently been tested on Centos/Redhat and works as of 20th July 2017. Any feedback welcome!
+This configuration has currently been tested on Centos/Redhat (Red Hat Enterprise Linux Workstation release 7.3 (Maipo)) and works as of 20th July 2017. Any feedback welcome!
