@@ -19,7 +19,7 @@ The following packages are used to make coding as easy as possible:
 
 My configuration is largely built on the excellent blog article from [Jess Hamrick](http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide), with changes to the configuration here and there to adapt it to my own tastes and requirements. 
 
-To use this configuration in your own work, simply copy this file into your ~/.emacs.d/ directory. Then install all of the dependencies mentioned above. Having done that, the final step is to create the following sub-directories with associated libraries within 
+To use this configuration in your own work, simply copy the init.el file into your ~/.emacs.d/ directory. Then install all of the dependencies mentioned above. Having done that, the final step is to create the following sub-directories with associated libraries within 
 the ~/.emacs.d/ folder:
 
 * fill-column-indicator-1.83/  
