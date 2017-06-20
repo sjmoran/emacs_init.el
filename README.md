@@ -1,5 +1,5 @@
-# emacs_init.el
-Configuration file for my personal emacs programming environment
+# A flexible and powerful Emacs-based Data Science/Machine Learning IDE
+Configuration file for my personal Emacs Scientific programming environment
 
 This Emacs environment configuration file enables a rich Python programming IDE. I tend to favour a lightweight and fast Emacs environment in my day-to-day programming and Scientific research work (rather than a more feature rich IDE such as PyCharm).
 I've setup my Emacs environment according to the init.el file attached to this repository. 
