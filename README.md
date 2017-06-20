@@ -14,10 +14,10 @@ The following packages are used to make coding as easy as possible:
 * [Pymacs](https://github.com/pinard/Pymacs): allows both-way communication between Emacs Lisp and Python 
 * [IPython](http://ipython.org/): interactive code execution from within Emacs 
 * [Interactively Do Things (ido)](https://www.emacswiki.org/emacs/InteractivelyDoThings): makes switching between buffers, opening/closing files easy
-* [autopep8](friendly docstrings https://github.com/naiquevin/sphinx-doc.el): automatically formats Python code to conform to the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide
-* [sphinx-doc.el](friendly docstrings https://github.com/naiquevin/sphinx-doc.el): generates [Sphinx](http://www.sphinx-doc.org/en/stable/)
+* [autopep8](https://pypi.python.org/pypi/autopep8): automatically formats Python code to conform to the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide
+* [sphinx-doc.el friendly docstrings](https://github.com/naiquevin/sphinx-doc.el): generates [Sphinx](http://www.sphinx-doc.org/en/stable/)
 
-My configuration is largely built on the excellent blog article from [Jess Hamrick] (http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide), with changes to the configuration here and there to adapt it to my own tastes and requirements. 
+My configuration is largely built on the excellent blog article from [Jess Hamrick](http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide), with changes to the configuration here and there to adapt it to my own tastes and requirements. 
 
 To use this configuration in your own work, simply copy this file into ~/.emacs.d/. Then install all of the dependencies mentioned above. Having done that, the final step is to create the following directories with associated libraries within 
 the ~/.emacs.d/ folder:
