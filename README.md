@@ -1,13 +1,13 @@
 # emacs_init.el
-Configuration file for my emacs programming environment
+Configuration file for my personal emacs programming environment
 
-This Emacs environment configuration file enables a rich Python programming IDE. Given that I am generally allergic to more heavyweight IDEs such as Pycharm, I tend to favour Emacs in my day-to-day programming work.
-I've setup my Emacs according to the init.el featured in this repository. The following packages are used:
+This Emacs environment configuration file enables a rich Python programming IDE. Given that I am generally allergic to more heavyweight IDEs such as Pycharm, I tend to favour an agile Emacs environment in my day-to-day programming work.
+I have setup my Emacs environment according to the init.el file featured in this repository. The following packages are used:
 
 * Emacs material theme: https://github.com/cpaulik/emacs-material-theme
 * Elpy: the Emacs Lisp Python environment https://github.com/jorgenschaefer/elpy
 * Flycheck: syntax checking http://www.flycheck.org/en/latest/
-* Pylint: for code analysis (coding standards, error detection).
+* Pylint: for code analysis (coding standards, error detection) https://www.pylint.org/
 * Ropemacs: python refactorings and code-assists https://github.com/python-rope/ropemacs
 * Pymacs: allows both-way communication between Emacs Lisp and Python https://github.com/pinard/Pymacs
 
