@@ -15,10 +15,15 @@ My configuration is largely built on the excellent blog article from Jess Hamric
 
 To use this configuration in your own work, simply copy this file into ~/.emacs.d/. Then create the following directories with associated libraries within the ~/.emacs.d/ folder:
 
-* fill-column-indicator-1.83/  (install https://github.com/alpaker/Fill-Column-Indicator)
-* python-mode-6.0.11/ (install https://launchpad.net/python-mode)
-* ropemacs-0.7/ (install https://github.com/python-rope/ropemacs)
-* pymacs-0.25/ (install https://github.com/pinard/Pymacs)
-* highlight-current-line-0.57/ (https://www.emacswiki.org/emacs/highlight-current-line.el)
+* fill-column-indicator-1.83/  
+** install https://github.com/alpaker/Fill-Column-Indicator
+* python-mode-6.0.11/ 
+** install https://launchpad.net/python-mode
+* ropemacs-0.7/ 
+** install https://github.com/python-rope/ropemacs
+* pymacs-0.25/ 
+** install https://github.com/pinard/Pymacs
+* highlight-current-line-0.57/ 
+** https://www.emacswiki.org/emacs/highlight-current-line.el
 
 This configuration has been tested on Centos/Redhat. Any feedback welcome!
